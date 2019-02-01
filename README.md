@@ -3,6 +3,7 @@
 비디오 Rails 데이터 적재
 
 1. 설정 정보를 config.json 으로 작성 후 config/ 에 복사
+
 {
   "language": "en",
   "parser_threads":  1,
@@ -35,8 +36,3 @@ $ python test/test_main.py
 4. 실행
 
 $ python beefarm.py
-
-
-
-
-
